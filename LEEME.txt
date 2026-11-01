@@ -1,0 +1,13 @@
+MIS FINANZAS - app instalable (PWA)
+
+Subi TODOS estos archivos juntos a un hosting con HTTPS, BORRANDO antes los viejos.
+Desinstala la app vieja del celular antes de instalar esta version (mantener presionado el icono > Desinstalar).
+Despues abri la direccion en Chrome > menu (3 puntos) > "Instalar app".
+
+AVISOS DE SERVICIOS A LAS 8:00
+- Servicios > "Agregar recordatorios al calendario (8:00)": baja un archivo .ics; abrilo y agregalo a tu calendario.
+  Eso si suena a las 8:00 aunque la app este cerrada.
+- La app instalada tambien intenta avisar sola en segundo plano, pero lo decide Android (no es hora exacta).
+
+ACCESO RAPIDO PARA CARGAR MOVIMIENTOS:
+Mantene presionado el icono de la app instalada: "Agregar movimiento" abre directo el formulario, sin PIN.
